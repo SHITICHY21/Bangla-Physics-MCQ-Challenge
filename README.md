@@ -2,6 +2,7 @@
 
 A streamlined and intelligent system built to tackle Bangla-medium Physics MCQs with precision.
 Powered by Unsloth, Qwen3-14B, and LoRA optimization, this model delivers fast and accurate predictions by combining translation-aware reasoning with advanced large-language-model capabilities.
+
 Whether the question is conceptual or numerical, the system extracts the most likely option (A/B/C/D) with exceptional reliability.
 
 ## 🚀 Overview
@@ -35,6 +36,6 @@ translated_submission.csv
 ```
 
 ## 👥 Contributors
-- **Adnan Faisal**  and **Shiti Chowdhury**  
+**Adnan Faisal**  and **Shiti Chowdhury**  
 Department of Computer Science & Engineering  
 Chittagong University of Engineering & Technology (CUET)
